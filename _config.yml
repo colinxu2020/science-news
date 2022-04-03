@@ -24,10 +24,10 @@ baseurl: "/colinxu2020-science-news"
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://s1.ax1x.com/2022/04/03/q76Nvt.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://s1.ax1x.com/2022/04/03/q765aF.png
 
 
 # 菜单中的按钮
@@ -73,21 +73,21 @@ footer-text: Copyright (c) 2022 Colinxu2020
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus: 
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 9f5b818b1a3632dd81d7
-  clientSecret: d652dfe470bce992d128cec36f1492b414992c46
-  repo: colinxu2020-science-news
-  owner: colinxu2020
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
   proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
+  repo: https://github.com/colinxu2020/ # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!

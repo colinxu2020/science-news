@@ -88,6 +88,7 @@ google_analytics: G-XPB29F4PJD
 
 utteranc:
   repo: colinxu2020/colinxu2020-science-news # Your github repo path, also see: https://utteranc.es
+  issue_term: pathname
 
 #
 # !! 以下所有设置都不需要更改 !!

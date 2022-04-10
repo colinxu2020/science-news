@@ -77,10 +77,10 @@ disqus:
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 9dd4ba39e42d7e9c3eab
+  clientSecret: 448c1cf3531012f10861fe4eb45cfc48c78402f0
+  repo: colinxu2020-science-news
+  owner: colinxu2020
   proxy:
 
 # 输入Google Analytics web tracking code

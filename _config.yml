@@ -77,17 +77,17 @@ disqus:
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 9dd4ba39e42d7e9c3eab
-  clientSecret: 448c1cf3531012f10861fe4eb45cfc48c78402f0
-  repo: colinxu2020-science-news
-  owner: colinxu2020
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
   proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics: G-XPB29F4PJD
 
 utteranc:
-  repo: https://github.com/colinxu2020/ # Your github repo path, also see: https://utteranc.es
+  repo: colinxu2020/colinxu2020-science-news # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!

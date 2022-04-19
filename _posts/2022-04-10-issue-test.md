@@ -6,7 +6,7 @@ Author: Colinxu2020
 categories: test
 tags: [test, issue]
 comments: true
-pinned: true
+pinned: false
 --- 
 
 测试评论功能
